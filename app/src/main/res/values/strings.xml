@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">misaniveau1-1</string>
+
+    <!-- Tous les NavHosts-->
+    <string name="home_route">Home</string>
+    <string name="screen1_route">screen1</string>
+    <string name="scan_route">scan</string>
+
+    <!-- Titres des TopAppBar -->
+    <string name="screen1_TopAppBar_title">A Propos (pas le plus important)</string>
+    <string name="scan_TopAppBar_title">Ecran de Scan BLE</string>
+
+    <!-- Descriptions des navigations icon -->
+    <string name="ArrowBack">Retour</string>
+    <string name="Refresh">Effacer</string>
+    <string name="Search">Rechercher</string>
+    <!-- textes du Screen 1 -->
+    <string name="screen1_text">En vrai, rien à signaler ici, le plus  gros du travail se trouve dans la partie SCAN du projet, je vous propose donc de cliquer plus bas pour y aller, ou pas , vous avez le choix...Comment ça "c-est tout?", vous pensez que je suis payé ?? </string>
+    <string name="screen1_modified_text">GREAAAAT !!!...ban aller, maintenant allons au scan por favor </string>
+
+    <!-- textes du Scan -->
+    <string name="scan_isScanning_text">On scanne...</string>
+    <string name="scan_isConnecting_text">Se connecte...</string>
+    <string name="scan_UnknownDevice_text">Inconnu au bataillon</string>
+    <string name="scan_PermissionRequest_text">Demander la permission</string>
+    <string name="scan_deviceName_text">Péripherique connecté : %1$s</string>
+    <string name="scan_LedOffCount">Eteinte : %1$s</string>
+    <string name="scan_LedOnCount">Allumée : %1$s</string>
+    <string name="scan_deviceConnected_text">Péripherique connecté : %1$s</string>
+    <string name="scan_deviceName"> Nom du Péripherique</string>
+
+
+    <!-- texte du HOME-->
+    <string name="home_text">Scannez, connectez, pilotez. Suivez en temps réel votre LED, personnalisez complètement votre BLE. Voilà le but de ma Misaniveau 1-1 (Pas sûr pour le nom)</string>
+
+    <!-- Dialogues -->
+    <string name="screen1_dialog_title">Vous êtes satisfait ?</string>
+    <string name="screen1_dialog_text">Avec des moyens aussi limités, difficile de faire mieux non? donc répondez : Oui</string>
+
+    <!-- texte de la snackbar -->
+    <string name="screen1_snackbar_text">Ah....ZUT Alors...voilà qui est balot</string>
+
+
+
+    <!--Toutes les images-->
+    <string name="screen1_image_description">Une image pour faire pitié</string>
+    <string name="scan_image_LedOn">LED allumée</string>
+    <string name="scan_image_LedOff">LED éteinte</string>
+
+
+
+    <!-- Tous les Boutons-->
+    <string name="screen1_button_1">Aller SCAN</string>
+    <string name="screen1_button_2">Cliques pour voir !</string>
+    <string name="screen1_ConfirmButton">Oui</string>
+    <string name="screen1_DismissButton">Non</string>
+    <string name="home_button_1">A PROPOS? (UNE SURPRISE)</string>
+    <string name="home_button_2">ENTRER DANS LE VIF DU SUJET!</string>
+    <string name="scan_ledOn_button">Allumme Por favor</string>
+    <string name="scan_ledOff_button">Coupe tout</string>
+    <string name="scan_disconnect_button">Se déconnecter</string>
+    <string name="scan_animation_button">Animation spéciale</string>
+    <string name="scan_sos_button">Envoyer un SOS</string>
+    <string name="scan_rename_button">Renommer</string>
+
+
+
+</resources>

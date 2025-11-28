@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Get Back to Work 1-1</string>
+
+    <!-- Tous les NavHosts-->
+    <string name="home_route">Home</string>
+    <string name="screen1_route">screen1</string>
+    <string name="scan_route">scan</string>
+
+    <!-- Titres des TopAppBar -->
+    <string name="screen1_TopAppBar_title">About (It is not this serious)</string>
+    <string name="scan_TopAppBar_title">BLE Scan Page</string>
+
+    <!-- Descriptions des navigations icon -->
+    <string name="ArrowBack">Back</string>
+    <string name="Refresh">Refresh</string>
+    <string name="Search">Search</string>
+    <!-- textes du Screen 1 -->
+    <string name="screen1_text">Actually, there is nothing to report here; the bulk of the work is in the SCAN section of the project, so I suggest you click below to go there, if You Want to. I mean, You litterally have the choice here...What do you mean by "Is that All ?", you think I am paid for this ??? </string>
+    <string name="screen1_modified_text">GREAAAT!!.....yeah yah, now go to scan</string>
+
+    <!-- textes du Scan -->
+    <string name="scan_isScanning_text">Is scanning...</string>
+    <string name="scan_isConnecting_text">Is connecting...</string>
+    <string name="scan_UnknownDevice_text">Who is this ?</string>
+    <string name="scan_PermissionRequest_text">Ask permission</string>
+    <string name="scan_deviceName_text">Connected Device : %1$s</string>
+    <string name="scan_LedOffCount">Off : %1$s</string>
+    <string name="scan_LedOnCount">On : %1$s</string>
+    <string name="scan_deviceConnected_text">Connected Device : %1$s</string>
+    <string name="scan_deviceName"> Device Name</string>
+
+
+    <!-- texte du HOME-->
+    <string name="home_text">Scan, connect, control. Monitor your LED in real time, fully customize your BLE. That is the goal of my Get Back To Work 1-1.</string>
+
+    <!-- Dialogues -->
+    <string name="screen1_dialog_title">Are you satisfied ?</string>
+    <string name="screen1_dialog_text">I did what I could with what I had, so please do not answer NO</string>
+
+    <!-- texte de la snackbar -->
+    <string name="screen1_snackbar_text">Ah....Darn! Well...what a shame!</string>
+
+
+
+    <!--Toutes les images-->
+    <string name="screen1_image_description">A pitiful image</string>
+    <string name="scan_image_LedOn">LED On</string>
+    <string name="scan_image_LedOff">LED Off</string>
+
+
+
+    <!-- Tous les Boutons-->
+    <string name="screen1_button_1">Go To SCAN</string>
+    <string name="screen1_button_2">Click to see !</string>
+    <string name="screen1_ConfirmButton">Yes, kinda</string>
+    <string name="screen1_DismissButton">No, clearly not</string>
+    <string name="home_button_1">About? (SURPRISE)</string>
+    <string name="home_button_2">LET US GO STRAIGHT TO THE POINT</string>
+    <string name="scan_ledOn_button"> Light up,Por favor</string>
+    <string name="scan_ledOff_button">CUT!!</string>
+    <string name="scan_disconnect_button">Log out</string>
+    <string name="scan_animation_button">special Animation</string>
+    <string name="scan_sos_button">SEND a SOS</string>
+    <string name="scan_rename_button">Rename</string>
+
+
+
+</resources>
